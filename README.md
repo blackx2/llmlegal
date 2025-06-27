@@ -27,9 +27,3 @@ An end-to-end Natural Language Processing (NLP) pipeline designed to analyze and
 - scikit-learn  
 - sentence-transformers  
 - matplotlib & seaborn
-
-## Installation
-
-```bash
-pip install -r requirements.txt
-python -m spacy download pt_core_news_md
